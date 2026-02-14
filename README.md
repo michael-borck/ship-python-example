@@ -1,6 +1,6 @@
 # Ship It Example
 
-A complete working example of a multi-platform Python application demonstrating the architecture from **"Ship It: Python in Production - Architecting for AI-Assisted Development"** by Michael Borck.
+A complete working example of a multi-platform Python application demonstrating the architecture from **[Ship Python, Orchestrate AI: Professional Python in the AI Era](https://michael-borck.github.io/ship-python-orchestrate-ai)** by Michael Borck.
 
 This example shows a simple task manager application with:
 - FastAPI backend with RESTful API
