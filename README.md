@@ -1,4 +1,4 @@
-# Ship It Example
+# Ship Python Example
 
 A complete working example of a multi-platform Python application demonstrating the architecture from **[Ship Python, Orchestrate AI: Professional Python in the AI Era](https://michael-borck.github.io/ship-python-orchestrate-ai)** by Michael Borck.
 
@@ -56,7 +56,7 @@ npm start
 ## Project Structure
 
 ```
-ship-it-example/
+ship-python-example/
 ├── backend/           # FastAPI backend
 │   ├── src/my_app/    # Application code
 │   └── tests/         # API tests
@@ -72,14 +72,14 @@ ship-it-example/
 
 If you want to use this architecture for your own project:
 
-1. **Cookiecutter template**: `cookiecutter gh:michael-borck/ship-it-cookiecutter` - Full customization
-2. **GitHub template**: [ship-it-template](https://github.com/michael-borck/ship-it-template) - Quick start
+1. **Cookiecutter template**: `cookiecutter gh:michael-borck/ship-python-cookiecutter` - Full customization
+2. **GitHub template**: [ship-python-template](https://github.com/michael-borck/ship-python-template) - Quick start
 
 ## Related Resources
 
-- [Ship It: Python in Production](https://github.com/michael-borck/ship-it-python-in-production) - The companion book
-- [ship-it-cookiecutter](https://github.com/michael-borck/ship-it-cookiecutter) - Cookiecutter template
-- [ship-it-template](https://github.com/michael-borck/ship-it-template) - GitHub template
+- [Ship Python, Orchestrate AI](https://github.com/michael-borck/ship-python-orchestrate-ai) - The companion book
+- [ship-python-cookiecutter](https://github.com/michael-borck/ship-python-cookiecutter) - Cookiecutter template
+- [ship-python-template](https://github.com/michael-borck/ship-python-template) - GitHub template
 
 ## License
 
