@@ -1,5 +1,9 @@
 # Ship Python Example
 
+<!-- BADGES:START -->
+[![api-first-architecture](https://img.shields.io/badge/-api--first--architecture-blue?style=flat-square)](https://github.com/topics/api-first-architecture) [![docker](https://img.shields.io/badge/-docker-2496ed?style=flat-square)](https://github.com/topics/docker) [![electron](https://img.shields.io/badge/-electron-47848f?style=flat-square)](https://github.com/topics/electron) [![fastapi](https://img.shields.io/badge/-fastapi-009688?style=flat-square)](https://github.com/topics/fastapi) [![javascript](https://img.shields.io/badge/-javascript-f7df1e?style=flat-square)](https://github.com/topics/javascript) [![multi-platform-development](https://img.shields.io/badge/-multi--platform--development-blue?style=flat-square)](https://github.com/topics/multi-platform-development) [![pwa](https://img.shields.io/badge/-pwa-blue?style=flat-square)](https://github.com/topics/pwa) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![react](https://img.shields.io/badge/-react-61dafb?style=flat-square)](https://github.com/topics/react) [![typescript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square)](https://github.com/topics/typescript)
+<!-- BADGES:END -->
+
 A complete working example of a multi-platform Python application demonstrating the architecture from **[Ship Python, Orchestrate AI: Professional Python in the AI Era](https://michael-borck.github.io/ship-python-orchestrate-ai)** by Michael Borck.
 
 This example shows a simple task manager application with:
